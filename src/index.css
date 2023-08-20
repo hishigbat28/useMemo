@@ -1,0 +1,17 @@
+input {
+  width: 200px;
+  height: 80px;
+  font-size: 40px;
+  margin: 40px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0px 40px;
+  font-size: 80px;
+}
+button {
+  width: 300px;
+  height: 60px;
+  font-size: 30px;
+  border: 5px solid black;
+}
